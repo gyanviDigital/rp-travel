@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Jun 2024 12:12:17 at https://www.nepalholidaytour.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nepalholidaytour.in/ -O1 "C:\Users\perfect\Desktop\rp-travel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:12:18	Warning: 	Note: due to https://www.nepalholidaytour.in remote robots.txt rules, links beginning with these path will be forbidden: /cgi-bin/ (see in the options to disable this)
+12:12:36	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/style.css (from https://www.nepalholidaytour.in/)
+12:12:38	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/widget-v4.tidiochat.com/1_35_0/static/js/render.c25d885567cc682a9c5b.js (from https://www.nepalholidaytour.in/)
+12:12:45	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js (from https://www.nepalholidaytour.in/)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/preloader.gif (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/counter_bg.jpg (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/top-service-bg.html (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/call_to_action_bg.jpg (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/why-us-bg.jpg (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/testimonial-bg.html (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/header.jpeg (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/slide2.jpg (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/slide1.jpg (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/product-bg.jpg (from https://www.nepalholidaytour.in/css/main.css)
+12:13:26	Error: 	"Not Found" (404) at link https://www.nepalholidaytour.in/img/pokhara.jpg (from https://www.nepalholidaytour.in/pokhara-tour-package-from-gorakhpur.php)
+12:13:33	Warning: 	Retry after error 500 (Internal Server Error) at link https://themeearth.com/wp-content/uploads/elementor/css/global.css?ver=1595361825 (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+12:13:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://themeearth.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.1 (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+12:13:38	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/rdu58dqsiymikhfizchesvzwvkx6zp4f.js (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+12:13:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://themeearth.com/wp-content/uploads/elementor/css/global.css?ver=1595361825 (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+12:13:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://themeearth.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.1 (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+12:13:40	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/rdu58dqsiymikhfizchesvzwvkx6zp4f.js (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+12:13:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://themeearth.com/wp-content/uploads/elementor/css/global.css?ver=1595361825 (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+12:13:41	Error: 	"Internal Server Error" (500) after 2 retries at link https://themeearth.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.1 (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+12:13:41	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/rdu58dqsiymikhfizchesvzwvkx6zp4f.js (from https://www.nepalholidaytour.in/fonts/glyphicons-halflings-regular.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 24 seconds : 195 links scanned, 171 files written (13796689 bytes overall) [13507332 bytes received at 160801 bytes/sec], 467769 bytes transferred using HTTP compression in 17 files, ratio 21%, 4.8 requests per connection
+(17 errors, 7 warnings, 0 messages)

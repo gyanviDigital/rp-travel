@@ -72,20 +72,44 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 .tblHeaderColor, .tblHeaderColor td { background: #99c; }
 .tblNoBorder td   { border: 0; }
 
+ <script src="https://cdn.tailwindcss.com"></script>
 
+		#search {
+    border-color: red;
+    animation: rotateBorder 3s infinite linear;
+    /* Adjust animation duration and timing function as needed */
+}
+
+body {
+    background-color: gray;
+}
+
+/* Define keyframes for rotation */
+@keyframes rotateBorder {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+#searchText {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-weight: bold;
+    filter: drop-shadow(1px 1px 1px black);
+}
 // -->
 </style>
 
 </head>
 
 <body style=" height:800px; display:grid; place-items:center; place-content:center;text-align:center;" >
-	<TD BACKGROUND="fade.gif">
-				&middot;
-					<A HREF="www.nepalholidaytour.in/index.html">
-						Nepal Tour Package from Gorakhpur | Nepal Holiday Tour From Gorakhpur | Trip To Nepal From Gorakhpur
-					</A>		
-			</TD>
-<h1>Loding ...</h1>
+	<span id="searchText" >Searching</span>
+    <div class="w-32 h-32 border-t-4 text-center pt-10 text-sm border-r-4 rounded-full " id="search"> </div>
+    
 	<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=www.nepalholidaytour.in/index.html">
 
 </body>
